@@ -13,7 +13,7 @@ a command-line expense tracker built with python that tracks expenses.
 - Used float() to accept decimal amounts
 ## How to run it
 1. Make sure Python is installed
-2. Download 'result_calculator.py'
+2. Download 'expense_tracker.py'
 3. Open terminal and run:
 python expense_tracker.py
 
